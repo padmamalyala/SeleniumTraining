@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class LoginTestTest {
 	@Test
-	public void f() {
+	public void y() {
 		System.out.println("Login");
 	}
 }
